@@ -1,0 +1,97 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    position: sticky;
+    
+}
+
+.jumbotron {
+    background-image: url(qqqq.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -70px;
+    padding: 7rem 1rem;
+    background-color: rgb(213, 227, 238);
+    color: white;
+    
+}
+.jumbotron h1 .jumbotron p {
+    text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+#about {
+    padding: 90px 0;
+
+}
+#galery {
+    background-color: rgb(213, 227, 238);
+   
+}
+
+
+.sosmed {
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+}
+footer {
+    
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(48, 48, 48);
+    height: auto;
+    width: 100%;
+    color: aliceblue;
+}
+.sosmed a {
+    font-size: 18px;
+    color: inherit;
+    border: 1px solid rgb(255, 255, 255);
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    opacity: 0.75;
+}
+.sosmed a:hover {
+    color: #ff00dd;
+}
+.button {
+    background-color: black;
+    width: 100%;
+    padding: 13px 0;
+    text-align: center;
+    
+}
+.button p {
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+.button span {
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+}
+#galery {
+    padding: 93px 0;
+    
+}
+
+
+#galery img {
+    opacity: 100%;
+}
+#galery img:hover {
+    opacity: 0.75;
+}
+
+
+   
